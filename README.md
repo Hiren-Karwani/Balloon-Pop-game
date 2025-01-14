@@ -1,3 +1,7 @@
+# Demo
+
+https://hiren-karwani.github.io/Balloon-Pop-game/
+
 # Balloon Inflator Game
 
 A fun interactive game built with **Phaser.js**, where you inflate a balloon by clicking on a pump button. As the balloon inflates, a random letter appears on it. Once inflated, the balloon can be released, floating across the screen, and eventually popping when clicked. 
